@@ -26,7 +26,7 @@ You do **not** need to understand everything in this guide before you begin. Fol
 
 Before running any Git commands, first determine **which type of repository you are working with**.
 
-There are two main workflows in Learn2Earn.
+There are two main workflows for the Learn2Earn Ikeja campus codespace.
 
 ## Workflow A — I want to work on an existing Learn2Earn repository
 
@@ -37,7 +37,7 @@ For example:
 ```text
 Learn2Earn-Ikeja-Campus-Codespace
         │
-        └── python-assignment
+        └── python-drills
 ```
 
 Your workflow is:
@@ -260,6 +260,8 @@ git --version
 # 5. Join the Learn2Earn GitHub Organization
 
 You must be a member of the **Learn2Earn-Ikeja-Campus-Codespace** GitHub organization before you can access organization repositories that have been assigned to you.
+
+Fill out the L2E Ikeja Campus GitHub Sign up form or contact an admin to get an invitation.
 
 After receiving your invitation:
 
@@ -1488,7 +1490,7 @@ git remote -v
 
 ---
 
-# 42. The Learn2Earn Rule
+# 42. The Learn2Earn Codespace Rule
 
 The most important principle is:
 
